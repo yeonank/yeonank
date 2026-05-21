@@ -15,11 +15,12 @@
 
 
 ## 💻 Project
-> [로그로그](https://loglog-8xs.pages.dev/develop/document/home)
-기록을 위한 자체 제작 블로그로 컬러풀 앱의 시초가 됨.
+> [워터스택](https://water.dearbinary.com/)
+수분 섭취 관리 서비스
 
 > [컬러풀](https://loglog-8xs.pages.dev/develop/document/ColorfulWithReactNative)
 색상으로 구분하는 하루. 앱 스토어 출시.
+[배포 링크](https://apps.apple.com/kr/app/colorful/id6727005815)
 
-> [워터스택](https://water.dearbinary.com/)
-수분 섭취 관리 서비스
+> [로그로그](https://loglog-8xs.pages.dev/develop/document/home)
+기록을 위한 자체 제작 블로그로 컬러풀 앱의 시초가 됨.
